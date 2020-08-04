@@ -19,7 +19,7 @@ class App extends Component {
         <AlertProvider template={AlertTemplate} {...alertOptions}>
           <Fragment>
             <Header />
-            {/* <Alert /> */}
+            <Alert />
             <div className="container">
               <Dashboard />
             </div>

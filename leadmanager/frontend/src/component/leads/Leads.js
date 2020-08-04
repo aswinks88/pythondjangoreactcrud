@@ -24,6 +24,7 @@ export class Leads extends Component {
                 <th>Name</th>
                 <th>Email</th>
                 <th>Message</th>
+                <th>Delete</th>
               </tr>
             </thead>
             <tbody>
